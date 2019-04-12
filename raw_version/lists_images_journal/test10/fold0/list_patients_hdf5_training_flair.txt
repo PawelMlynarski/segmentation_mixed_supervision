@@ -1,1 +1,0 @@
-/data/asclepios/user/pmlynars/data/patients_hdf5/T2_FLAIR/BRATS2017/train/HGG/Brats17_2013_7_1.hdf5

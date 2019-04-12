@@ -1,2 +1,0 @@
-nb_WA=100
-index_start_WA=50

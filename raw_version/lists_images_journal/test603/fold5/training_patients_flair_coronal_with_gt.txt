@@ -1,5 +1,0 @@
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/coronal/Brats17_TCIA_436_1
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/coronal/Brats17_TCIA_420_1
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/coronal/Brats17_CBICA_ABO_1
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/coronal/Brats17_TCIA_451_1
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/coronal/Brats17_CBICA_ATB_1

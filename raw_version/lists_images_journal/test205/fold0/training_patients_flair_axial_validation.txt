@@ -1,2 +1,0 @@
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_ARZ_1
-/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_AOH_1

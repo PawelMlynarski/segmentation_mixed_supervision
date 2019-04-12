@@ -1,3 +1,0 @@
-test 4:
-25 juillet 2017
-30 GT, 125 WA, 40 test, 7-fold cross-validation
