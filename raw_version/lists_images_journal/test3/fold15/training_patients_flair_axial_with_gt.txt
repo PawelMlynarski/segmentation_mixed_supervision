@@ -1,0 +1,15 @@
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_2013_5_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_118_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_ASE_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_ANG_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_ATF_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/axial/Brats17_TCIA_255_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_131_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_328_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/axial/Brats17_2013_28_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_CBICA_AQO_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_274_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_138_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/axial/Brats17_TCIA_261_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/HGG/axial/Brats17_TCIA_374_1
+/data/asclepios/user/pmlynars/slices_bin_normalized_without_registration/T2_FLAIR/BRATS2017/train/LGG/axial/Brats17_TCIA_620_1

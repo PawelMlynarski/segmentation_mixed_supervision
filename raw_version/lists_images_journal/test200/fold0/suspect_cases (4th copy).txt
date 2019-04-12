@@ -1,0 +1,130 @@
+GT:
+2013_14 bas (43-44)
+2013_19 douteux (haut) mais ca passe
+2013_21 bas (67)
+2013_22 qualite T1c pourrie, laisser tomber peut etre
+ABN virer, trous inexplicables dans la GT
+ABY un peu bizarre/discutable sur certains trucs (plutot virer)
+ALU douteux (en bas 47), plutot virer
+AME douteux sur certains trucs (bas 38), plutot virer
+ANP douteux, difficile a limiter (70), plutot virer
+AOH plutot douteux sur quelques trucs, peut etre virer
+AOZ douteux, virer
+APZ diffile en bas (40-50), plutot virer
+AQA peut etre douteux en bas (41) mais sinon peut etre ca va
+AQD cas difficile mais peut etre garder
+AQJ sauts bizarres apres 128, garder
+AQQ cas difficile, peut etre laisser tomber
+AQR doute sur quelques pixels (par exemple le trou dans la GT slice 93)
+AQT doute sur quelques pixels, je ne sais pas s'il faut garder
+AQU douteux (slice 99 et autour) mais aussi je ne sais pas parce que l'image est assez riche, mais peut etre virer
+AQZ douteux (slice 65), virer
+ARW sauts suspects (55), virer
+ASE cas tres diffile, perso je ne verrais rien sur bcp de slices. Peut etre virer
+ASG moauis... je ne sais pas (oedeme difficile), pixelise
+ASH aussi douteux sur l'oedeme (53), pixelise
+ASV douteux (71), virer
+ASW peut etre quelques pixels en bas (47) mais garder
+ATF cas difficile, nie wiem, un peu pixelisee et un peu de sauts
+ATP quelques pixels (65) mais peut etre garder
+ATX ok (pas vu les modalites) mais quelques pixels tumoraux separes (eloignes du reste de la tumeur): penser a ne pas centrer des patches 3D sur la classe 'oedeme'
+AUN chyba olac (80)
+AUR cas tres complique car en conjonction avec sclerose en plaques ou qchose. Ou sinon ne pas regarder au dessus de la slice 78
+AWH cas ultra bizarre (oedeme partout), doute peut etre sur quelques pixels mais plutot garder)
+AXJ grosse tumeur mais la GT pas tjs tres bien (slice 110), peut etre virer, a voir
+AXL douteux (60), virer
+AXN peut etre un doute (par exemple slice 66) mais plutot garder
+AXW il y a un pixel "eloigne"
+AYA douteux (surtout en bas, saut dans la GT dans les slices 53/54), , pixelise, virer
+AYU saut immense 45/46, douteux, virer
+AZD GT plutot douteuse, virer
+BFB arreur probable a la slice 43 (melange artere/tumeur), sinon quelques pixels douteux. A voir.
+BHB cas difficile (oedeme dur a delimiter, meme s ils ont fait un travail serieux). A voir
+BHK douteux: sauts dans la GT 79/80 (tumor core)
+tcia111 resolution faible du T1c, virer
+tcia 118 cas interessant mais GT douteuse (95), peut etre virer
+tcia 131 resolution faible pour t1c, virer
+tcia 135 resolution plutot faible pour t1c et GT peut etre pas ultra bien (slice 98). a voir
+tcia 138 cas tres difficle (enhancing/non enhancing) et GT douteuse avec des sauts (voir 78/79) + trou dans la slice 75, plutot virer
+tciA 147 resolution t1c tres faible, virer
+tcia 149 resolution t1c faible, peut etre la GT un peu mieux mais je ne sais pas
+tcia 150 encore une qualite pourrie, je regarde meme pas la GT
+tcia 151 resolution faible et GT douteuse, voire slice 77
+tcia 162 sauts enormes 67/68/69, virer
+tcia 165 resolution ok, presque bon, mais saut bizarre 70/71. Bien pour 2D mais reflechir pour la 3D
+tcia 167 resolution faible, GT peut etre ok. Je ne sais pas.
+tcia 168 artefacts de l'image T1c, virer
+tcia 117 difficile a dire, plutot garder
+tcia 179 qualite ok mais GT bizarre (oedeme slice 75), peut etre virer
+tcia 180 qualite ok, cas plutot difficile (erreurs possibles) mais plutot garder
+tcia 184 resolution faible, cas facile mais bizarre. peut etre virer a cause de la resolution
+tcia 186 resolution ok, GT peut etre bien mais un doute (partie non tumorale slice 83) , plutot garder
+tcia 190, resolution faible, on voit rien, virer
+tcia 192 qualite bien mais GT douteuse (115: non enhancing nie zaznaczony, 105: incoherent pour la classe non tumorale dans la partie oedeme)
+tcia 198 besoin de clip, resolution moyenne-ok mais doute sur la partie oedeme (84) mais plutot garder
+tcia 199 ok
+tcia 201 resolution t1c faible mais GT plutot ok. je ne sais pas
+tcia 203 resolution 1tc pas tres bien, GT plutot approximative, plutot virer
+tcia 205 qualite t1c horrible (resolution x-y + crop), virer direct
+tcia 208 bien (qualite et GT)
+tcia 211 resolution faible, GT pas smooth, plutot virer
+tcia 218, resolution faible, GT peut etre mieux. Je ne sais pas
+tcia 221 qualite ok, GT parfois douteuse(enhancing, slice 105) mais mais peut etre garder
+tcia 222 resolution plutot faible. Je ne sais pas
+tcia 226 resolution mieux, GT: un peu de doutes (voir non-enhancing 78)
+tcia 231 resolution faible, peut etre virer, a voir
+tcia 234 resolution tres faible, je ne regarde meme pas la GT
+tcia 235 pareil
+tcia 242 resolution faible, je ne regarde pas la GT
+tcia 247 pareil mais a verifier
+tcia 257 quallite ok, GT peut etre bien mais avec quelques doutes (enhancing/non-enhancing)
+tcia 265 qualite ok, GT probablement bien
+tcia 274 artefacts (lignes horizontales + deformations) mais peut etre garder
+tcia 277 resolution a l'air faible, on ne voit pas tres bien, je ne regarde pas la GT
+tcia 278 resolution faible, voir la GT slice 78, virer
+tcia 280 resolution faible, je check pas
+penser a ne pas entrainer sur des slices-limite et ne pas entrainer sur des slices axiales 30-49
+tolerer quelques pixels misclassifies dans la GT
+tcia 283 resolution moyenne, GT irreguliere, plutot virer
+tcia 290 qualite ok, GT bizarre pour l'oedeme (voir par exemple 73 ou 86), je ne sais pas, peut etre virer
+tcia 296 qualite ok, saut bizzare dans 50/51 mais sinon peut etre bien. je ne sais pas.
+tcia 300 cas facile, ok
+tcia 309, resolution faible et artefacts (lignes horizontales), je check pas
+tcia 314 pas accurate au pixel pres (63 + saut 71/72) mais plutot garder
+tcia 319 resolution faible, je check pas
+tcia 322 plutot ok
+tcia 328 resolution trop mauvaise
+tcia 331 chyba ok
+tcia 332 qualite ok, GT vite fait (oedeme 99). Je ne sais pas, peut etre garder quand meme
+tcia 335 resolution pas bonne, je check pas
+tcia 338 git
+tcia 343 resolution trop mauvaise
+tcia 361 resolution moyenne, GT moyenne aussi. Je ne sais pas
+tcia 368 qualite ok mais GT bizarre (enhancing/non enhancing, par exemple 78), je ne sais pas
+tcia 370 resolution trop mauvaise
+tcia 372 resolution je ne sais pas mais GT pas smooth (sauts 70/71,81/82), virer
+tcia 374 qualite ok mais GT pas tjs accurate (voir oedeme slice 86 ou slice 70). Plutot garder mais je ne sais pas
+tcia 375 qualite ok, ce serait peut etre bien mais saut bizzare dans la 69/70. je ne sais pas
+tcia 377 chyba ok
+tcia 378 resolution moyenne, GT pixelisee mais peut etre ok, je ne sais pas
+tcia 390 mauvaise resolution
+tcia 394 qualite ok, GT un peu pixelise mais peut etre ok
+tcia 396 resolution pas tres bon, je ne check pas la GT mais pas forcement jeter, a voir
+tcia 401 resolution plutot mauvaise, je check pas
+tcia 406 resolution flair mauvaise mais resolution t1c tres bonne. GT pas smooth et un peu pixelisee. Peut etre virer mais je ne sais pas
+tcia 409 qualite t1c bien mais GT pas smooth, plutot virer
+tcia 411 resolution t1c pas bonne et on voit pas bien la tumeur, plutot virer
+tcia 412 qualite t1c pas bonne-moyenne, je check pas mais a voir
+
+concernant les trucs de faible resolution: ne pas entrainer sur des slices interpolees (IMPORTANT, A METTRE POSSIBLEMENT DANS L'ARTICLE)
+
+
+pomysl na algorytm: robic tak jak wtedy z tym validation set (jak pyklo to wziac, jak nie pyklo to pobrac wczesniejsze parametry + dawac punkty pacjentom za pykanie i pozniej patrzyc ktorzy sprzyjaja a ktorzy nie)
+
+déjà
+
+18h22 start 18h52 stop
+
+19h51-52 start
+
+00h03 start
